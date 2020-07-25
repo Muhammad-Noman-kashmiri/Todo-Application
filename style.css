@@ -1,0 +1,82 @@
+body{
+   
+  margin-left: 25%;
+  margin-right: 25%;
+  height:50%;
+ 
+ 
+ 
+  text-align: center;
+}
+#head{
+    background-color: red;
+}
+h1{
+    color: #7FFF00;
+}
+.btn{
+   background-color: red;
+   color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+   border-radius: 12px;
+   cursor: pointer;
+}
+.ebtn{
+    background-color: yellow;
+    border-radius: 12px;
+color: red;
+cursor: pointer;
+}
+
+li {
+   
+    padding-top: 5px;
+  
+  }
+
+  li::before {
+    content: "\2022";
+    color: red;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+
+  
+ li:hover {
+    background:  );
+    cursor: pointer;
+  }
+
+
+  .hbtn{
+    background-color: yellow;
+    border-radius: 12px;
+color: red;
+ cursor: pointer;
+}
+
+input{
+    background-color: black;
+    color: white;
+}
+
+#ul{
+
+    height: 500px;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#cbccc8)) fixed;
+    border: 4px solid;
+    border-color: green;
+    box-shadow: 5px 10px red;
+    
+}
+
+
+.li {
+    column-count: 2;
+  }
+
+
+
+
